@@ -4,7 +4,7 @@ Project done during **Full Stack Software Engineering studies** at **ALX School*
 
 ## Technologies
 * Scripts written in Bash 4.4.23(2)
-* C files are compiled using `gcc 9.3.0`
+* C files are compiled using `gcc 9.4.0`
 * C files are written according to the C90 standard
 * Tested on Ubuntu 20.04 LTS
 
