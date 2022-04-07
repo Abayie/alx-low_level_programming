@@ -3,7 +3,6 @@
 #include <stdio.h>
 #include <limit.h>
 #include <ctype.h>
-#include <ctype.h>
 
 /**
  * _is_zero - determines if any number is zero
