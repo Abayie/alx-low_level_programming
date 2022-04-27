@@ -1,4 +1,4 @@
-nclude "lists.h"
+#include "lists.h"
 
 /**
  * free_listint - frees a linked list
@@ -15,4 +15,4 @@ void free_listint(listint_t *head)
 		head = head->next;
 		free(temp);
 	}
-}
+} 
